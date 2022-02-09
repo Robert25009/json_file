@@ -1,0 +1,34 @@
+[
+    {
+        "carID"    : 1,
+        "carName"  : "Toyota",
+        "carModel" : "Corolla",
+        "carColor" : "Blue",
+        "year"     : 2017,
+        "isUsed"   : true
+    },
+    {
+        "carID"    : 2,
+        "carName"  : "Renault",
+        "carModel" : "Clio",
+        "carColor" : "Orange",
+        "year"     : 2022,
+        "isUsed"   : false
+    },
+    {
+        "carID"    : 3,
+        "carName"  : "Dacia",
+        "carModel" : "Duster",
+        "carColor" : "Green",
+        "year"     : 2020,
+        "isUsed"   : true
+    },
+    {
+        "carID"    : 4,
+        "carName"  : "Opel",
+        "carModel" : "Corsa",
+        "carColor" : "Silver",
+        "year"     : 2006,
+        "isUsed"   : true
+    }
+]
